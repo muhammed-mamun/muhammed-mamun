@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Developer.gif" width="200px">
+</p>
 <h1 align="center">Hi there 👋, this is Mamun</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
