@@ -4,7 +4,7 @@
 
 <h1 align="center"> <a href="https://prepverse.github.io"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&pause=1000&color=F74609FF&center=true&vCenter=true&repeat=false&width=500&lines=Hello++%3C%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%8D%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%9C%2F%3E!%2C+I'm+Mamun" alt="Typing SVG" /></a></h1>
 
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate fullstack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammed-mamun&label=Profile%20views&color=0e75b6&style=flat" alt="muhammed-mamun" /> </p>
 
